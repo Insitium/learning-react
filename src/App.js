@@ -6,7 +6,7 @@ import HelloWorld from './Components/HelloWorld'
 function App() {
   return (
    <div>
-     <HelloWorld name="binod tharu"/>
+     <HelloWorld name="binod Tharu"/>
    </div>
   );
 }
