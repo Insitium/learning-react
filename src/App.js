@@ -1,13 +1,14 @@
 import './App.css';
 import React from 'react';
 import HelloWorld from './Components/HelloWorld'
-import counterExample from './Components/counterExample'
+import CounterExample from './Components/CounterExample'
 
 function App() {
   return (
    <div>
-     <HelloWorld name="binod Tharu"/>
-   </div>
+     {/*<HelloWorld name="binod Tharu"/>*/}
+     <CounterExample/>
+    </div>
   );
 }
 export default App;
